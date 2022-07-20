@@ -10,6 +10,8 @@ $y_{i+1} = y_i + \phi · h$
 
 Esta fórmula se conoce como método de Euler (o de Euler-Cauchy o de punto pendiente). Se predice un nuevo valor de y usando la pendiente (igual a la primera derivada en el valor original de x) para extrapolar linealmente sobre el tamaño de paso h.
 
+![alt text]("img1.png")
+
 En otras palabras, se toma la pendiente al inicio del intervalo como una aproximación de la pendiente promedio sobre todo el intervalo.
 
 Esta técnica en general se conoce como el método de Runge-Kutta.
