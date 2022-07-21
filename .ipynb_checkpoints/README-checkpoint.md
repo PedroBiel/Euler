@@ -43,3 +43,9 @@ debe introducirse como
 ```
       
 Nota 2: para conocer la derivada de una función [WolframAlpha](https://www.wolframalpha.com/).
+
+## Sobre la aplicación web ([Streamlit](https://streamlit.io/))
+
+Para lanzar la aplicación web con Streamlit usar el siguiente enlace:
+
+https://pedrobiel-euler-srcmain-o958cx.streamlitapp.com/
